@@ -206,7 +206,7 @@ st.markdown(
         font-size: 14px;
         color: inherit;
     ">
-        Project made as part of <strong>EDUNET SKILLSBUILD IBM AI Internship</strong> by <strong>Ajith Kumar</strong>
+        Project made as part of <strong>EDUNET SKILLSBUILD IBM AI Internship</strong> by <strong>Saivignesh Marapelli</strong>
     </div>
     """,
     unsafe_allow_html=True
